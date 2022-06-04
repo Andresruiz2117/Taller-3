@@ -1,0 +1,5 @@
+cuenta,nombres,apellidos,cargo,dependencia,oficina,telefono,email,compañia,ciudad,estado
+cuenta 1,Juan Andres,Ruiz Antonio,Gerente General,Gerencia,101,5255264 Ext 111,juan.ruiz@ruizyasociados.com,Ruizyasociados,Bogota,Bogota
+cuenta 2,Nidia Alcira,Antonio Cubillos,Gerente de Compras,Compras,103,5255264 Ext 112,nidia.antonio@ruizyasociados.com,Ruizyasociados,Bogota,Bogota
+cuenta 3,Alonso,Sanchez Mejia,Gerente de Logistica,Logistica,105,5255264 Ext 113,alonso.sanchez@ruizyasociados.com,Ruizyasociados,Bogota,Bogota
+cuenta 4,Andres Camilo,Sanchez Antonio,Gerente de Atencion al Cliente,Atencion al cliente,107,5255264 Ext 114,camilo.sanchez@ruizyasociados.com,Ruizyasociados,Bogota,Bogota
